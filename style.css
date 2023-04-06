@@ -1,0 +1,16 @@
+.copy_right_footer
+{
+    position: fixed;
+    color: red;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(5, 247, 1);
+}
+
+canvas{
+    margin-top: 60px;
+}
